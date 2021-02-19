@@ -21,3 +21,13 @@ const func = (num) => {
   return num + 1;  
 };  
 ```
+
+## Experience
+Have an experience in building simple web sites.
+
+## Education:
+National Technical University of Ukraine
+“Igor Sikorsky Kyiv Polytechnic Institute”
+
+## English:
+Pre-Intermediate
