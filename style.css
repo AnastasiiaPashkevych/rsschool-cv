@@ -86,3 +86,31 @@ body{
     max-width: 300px;
     margin-right: 50px;
 }
+
+/* footer styles start */
+.footer{
+    margin-bottom: 50px;
+}
+
+.footer-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer__link{
+   display: flex;
+   align-items: center;
+   margin-right: 50px;
+}
+
+.footer__link:last-child{
+    margin-right: 0;
+}
+
+.footer__link-img{
+    height: 30px;
+    margin-right: 10px;
+}
+
+/* footer styles end */
